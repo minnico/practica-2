@@ -1,0 +1,24 @@
+#contenedor-principal {
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+    background-color: rgb(0, 68, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.rectangulo {
+    padding: 5px;
+    margin: 5px;
+}
+.px {
+    background-color: crimson;
+    width: 200px;
+}
+.vw {
+    background-color: aquamarine;
+    width: 20vw;
+}
+.em {
+    background-color: chartreuse;
+    width: 15em;
+    font-size: 1.5em;
+}
